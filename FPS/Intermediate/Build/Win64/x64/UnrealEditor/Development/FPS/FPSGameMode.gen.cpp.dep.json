@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\svn\\eleves\\gbrunet\\projet perso\\fps\\fps\\intermediate\\build\\win64\\unrealeditor\\inc\\fps\\uht\\fpsgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\svn\\eleves\\gbrunet\\projet perso\\fps\\fps\\intermediate\\build\\win64\\x64\\fpseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\svn\\eleves\\gbrunet\\projet perso\\fps\\fps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps\\definitions.fps.h",
+            "d:\\svn\\eleves\\gbrunet\\projet perso\\fps\\fps\\source\\fps\\fpsgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\svn\\eleves\\gbrunet\\projet perso\\fps\\fps\\intermediate\\build\\win64\\unrealeditor\\inc\\fps\\uht\\fpsgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
