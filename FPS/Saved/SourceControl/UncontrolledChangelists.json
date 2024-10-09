@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/MobileControls.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/Actions/IA_Run.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E5/6XON0XLIRNWJCBCE62P2VV.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/D1/9XTHNJ7RYMHRDCEYQKNIYP.uasset"
+			]
+		}
+	]
+}

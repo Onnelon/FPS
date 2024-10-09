@@ -78,14 +78,14 @@ AFPSGameMode::~AFPSGameMode() {}
 // End Class AFPSGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_FPS_Source_FPS_FPSGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_Cours_2024_2025_Perso_Projet_perso_FPS_FPS_Source_FPS_FPSGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AFPSGameMode, AFPSGameMode::StaticClass, TEXT("AFPSGameMode"), &Z_Registration_Info_UClass_AFPSGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AFPSGameMode), 3570146086U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FPS_Source_FPS_FPSGameMode_h_3845899915(TEXT("/Script/FPS"),
-	Z_CompiledInDeferFile_FID_FPS_Source_FPS_FPSGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FPS_Source_FPS_FPSGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Cours_2024_2025_Perso_Projet_perso_FPS_FPS_Source_FPS_FPSGameMode_h_3845899915(TEXT("/Script/FPS"),
+	Z_CompiledInDeferFile_FID_Cours_2024_2025_Perso_Projet_perso_FPS_FPS_Source_FPS_FPSGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Cours_2024_2025_Perso_Projet_perso_FPS_FPS_Source_FPS_FPSGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
