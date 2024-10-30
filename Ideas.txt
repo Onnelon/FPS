@@ -1,0 +1,73 @@
+Brainstorm:
+	Fast paced shooter : (ref : Neon White, Ghostrunner)
+	- Unreal 
+	- Fast movements : Run, Crouch, Dash, Jump, (Hook, Wall run)
+	- Speedrun : Timer -> gameover if fail
+	- Enemies : Change difficulty with cursors (detection radius, bullet speed, attack speed...)
+	- Weapon(s) : sword, gun, rocket...
+	- Slow time ability
+	- Traps, Jump pads, Speed boost
+	- Level design : Shorter and harder alternative paths
+	- Procedural (optional): based on time i can allow to the feature: enemies spawn (can be a difficulty cursor), environmental assets (trees...), complete procedural map (need to generate valid paths)
+	- Music/Sounds
+
+
+	What I need to work on: fluid/satisfying character movements, basic AI, procedural generation 
+
+
+
+
+
+Checklist:
+
+Priority 1:
+	- Satisfying and fast movements:
+		- Run
+		- Crouch
+		- Jump
+		- Dash
+
+	- Weapons:
+		- Gun
+
+	- Enemies :
+		- Detect player
+		- Shoot
+
+Priority 2:
+	- Satisfying and fast movements:
+		- Hook
+		- Wall run
+
+	- Misc:
+		- Timer
+		- End : fail when time runs out and win when reaching finish line
+		- Slow time
+		- Traps, jump pads, speed boost
+
+	- Enemies :
+		- Movements in neutral state
+
+	- Weapons:
+		- Rocket
+
+
+Priority 3:
+	- Procedural generation:
+		- Do some research
+
+	- Weapons:
+		- Sword
+
+	- Misc:
+		- Music/Sounds
+		- Difficulty : balancing, multiple difficulties
+
+	- Enemies :
+		- More complex movements in fight
+
+
+
+
+
+

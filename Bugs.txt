@@ -1,0 +1,2 @@
+- Move backward while pressing Z and S / move rightward while pressing Q and D
+- Dash cooldown works with pause??
