@@ -29,6 +29,7 @@ Priority 1:
 
 	- Weapons:
 		- Gun
+		- Crosshair
 
 	- Enemies :
 		- Detect player
