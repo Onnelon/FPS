@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
+				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset"
+			]
+		}
+	]
+}
