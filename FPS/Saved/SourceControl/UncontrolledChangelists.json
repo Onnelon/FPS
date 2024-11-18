@@ -19,6 +19,11 @@
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U2/UXP5HG7TENJE837NCCTUVJ.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FR/FKXCJXTSQUCKASYWNGTSMB.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ZN/IJ1OPSH0EJ8XOV5ZXHB2N4.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
 				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
 				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset"
 			]
