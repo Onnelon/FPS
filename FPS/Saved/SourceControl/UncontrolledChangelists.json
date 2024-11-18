@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/HUD_Game.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/Imports/Textures/T_Crosshair.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/UI/W_GameUI.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/Actions/IA_Hook.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U2/UXP5HG7TENJE837NCCTUVJ.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FR/FKXCJXTSQUCKASYWNGTSMB.uasset",
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ZN/IJ1OPSH0EJ8XOV5ZXHB2N4.uasset",
 				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
 				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset"
 			]
