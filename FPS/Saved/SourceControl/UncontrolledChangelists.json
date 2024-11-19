@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
+				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset",
+				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/HUD_Game.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/Imports/Textures/T_Crosshair.uasset",
@@ -23,9 +26,7 @@
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
 				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
-				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
-				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/Enemy/BP_Enemy.uasset",
-				"D:/SVN/Eleves/gbrunet/Projet perso/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WM/ZD589ETW9NZQ5WCD5QT8PS.uasset"
+				"C:/Cours 2024-2025/Perso/Projet perso/FPS/FPS/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset"
 			]
 		}
 	]
