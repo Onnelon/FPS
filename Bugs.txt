@@ -1,4 +1,6 @@
 - Move backward while pressing Z and S / move rightward while pressing Q and D
 - Dash cooldown works with pause??
 - Projectile not centered
-- Sphere trace instead of line trace when dashing
+- Fix Enemy behavior tree
+- Add Run animation
+- Enemy stops at a certain distance when chasing player
