@@ -1,6 +1,5 @@
 - Move backward while pressing Z and S / move rightward while pressing Q and D
 - Dash cooldown works with pause??
 - Projectile not centered
-- Fix Enemy behavior tree
 - Add Run animation
-- Enemy stops at a certain distance when chasing player
+- Rework Enemy shoot timer and conditions
