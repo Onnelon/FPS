@@ -3,3 +3,4 @@
 - Projectile not centered
 - Add Run animation
 - Rework Enemy shoot timer and conditions
+- Add milliseconds to game timer
