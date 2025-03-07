@@ -1,0 +1,20 @@
+Bugs: 
+- Move backward while pressing Z and S / move rightward while pressing Q and D
+- Dash cooldown works with pause??
+- When hooking moving enemies, hook point doesn't follow enemy
+
+
+To do:
+-Gameplay
+	- Add a coountdown at the start and start timer after
+	- Restart level function
+	- Smoothen player movements
+	- Player health
+	- Player death
+	- Grey shader on death
+	- Fix enemy animations
+
+- UI:
+	- Menu (Title, play(level selection or launch level)+quit button)
+	- Gameover screen (gameover text and restart+menu button)
+	- Win screen ( win+timer text and restart+menu button)

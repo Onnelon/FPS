@@ -206,11 +206,15 @@ struct Z_Construct_UClass_ABlockoutToolsParent_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bBlockoutWorldAligned_MetaData[] = {
 		{ "Category", "Blockout Tools|Blockout Material" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "// Sets if triplanar material is local-aligned or world-aligned\n" },
+#endif
 		{ "DisplayName", "World Aligned" },
 		{ "EditCondition", "BlockoutMaterialType == EBlockoutMaterialType::BlockoutMaterialType_Grid" },
 		{ "ModuleRelativePath", "Private/BlockoutToolsParent.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Sets if triplanar material is local-aligned or world-aligned" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_BlockoutMaterialGridSize_MetaData[] = {
 		{ "Category", "Blockout Tools|Blockout Material" },
@@ -270,10 +274,14 @@ struct Z_Construct_UClass_ABlockoutToolsParent_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bBlockoutEnableCustomCollision_MetaData[] = {
 		{ "Category", "Blockout Tools|Collision" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "//, meta = (InlineEditConditionToggle))\n" },
+#endif
 		{ "DisplayName", "Enable Custom Collision" },
 		{ "ModuleRelativePath", "Private/BlockoutToolsParent.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", ", meta = (InlineEditConditionToggle))" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_BlockoutCustomCollisionProfileName_MetaData[] = {
 		{ "Category", "Blockout Tools|Collision" },
@@ -443,18 +451,18 @@ ABlockoutToolsParent::~ABlockoutToolsParent() {}
 // End Class ABlockoutToolsParent
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics
+struct Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EBlockoutMaterialType_StaticEnum, TEXT("EBlockoutMaterialType"), &Z_Registration_Info_UEnum_EBlockoutMaterialType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1181851643U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ABlockoutToolsParent, ABlockoutToolsParent::StaticClass, TEXT("ABlockoutToolsParent"), &Z_Registration_Info_UClass_ABlockoutToolsParent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABlockoutToolsParent), 1448010693U) },
+		{ Z_Construct_UClass_ABlockoutToolsParent, ABlockoutToolsParent::StaticClass, TEXT("ABlockoutToolsParent"), &Z_Registration_Info_UClass_ABlockoutToolsParent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABlockoutToolsParent), 2990606777U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_591040588(TEXT("/Script/BlockoutToolsPlugin"),
-	Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_3673229023(TEXT("/Script/BlockoutToolsPlugin"),
+	Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Private_BlockoutToolsParent_h_Statics::EnumInfo));
 // End Registration
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -31,7 +31,9 @@ struct Z_Construct_UClass_UBlockoutToolsSettings_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * \n */" },
+#endif
 		{ "IncludePath", "BlockoutToolsSettings.h" },
 		{ "ModuleRelativePath", "Public/BlockoutToolsSettings.h" },
 		{ "ObjectInitializerConstructorDeclared", "" },
@@ -56,11 +58,15 @@ struct Z_Construct_UClass_UBlockoutToolsSettings_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bBlockoutWorldAligned_MetaData[] = {
 		{ "Category", "Blockout Material" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "// Sets if triplanar material is local-aligned or world-aligned\n" },
+#endif
 		{ "ConfigRestartRequired", "TRUE" },
 		{ "DisplayName", "World Aligned" },
 		{ "ModuleRelativePath", "Public/BlockoutToolsSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Sets if triplanar material is local-aligned or world-aligned" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_BlockoutMaterialGridSize_MetaData[] = {
 		{ "Category", "Blockout Material" },
@@ -186,14 +192,14 @@ UBlockoutToolsSettings::~UBlockoutToolsSettings() {}
 // End Class UBlockoutToolsSettings
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics
+struct Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UBlockoutToolsSettings, UBlockoutToolsSettings::StaticClass, TEXT("UBlockoutToolsSettings"), &Z_Registration_Info_UClass_UBlockoutToolsSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UBlockoutToolsSettings), 106312758U) },
+		{ Z_Construct_UClass_UBlockoutToolsSettings, UBlockoutToolsSettings::StaticClass, TEXT("UBlockoutToolsSettings"), &Z_Registration_Info_UClass_UBlockoutToolsSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UBlockoutToolsSettings), 2060684235U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_1035693881(TEXT("/Script/BlockoutToolsPlugin"),
-	Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_1300372399(TEXT("/Script/BlockoutToolsPlugin"),
+	Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FPS_Plugins_BlockoutToolsPlugin_Source_BlockoutToolsPlugin_Public_BlockoutToolsSettings_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

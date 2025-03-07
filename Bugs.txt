@@ -1,6 +1,0 @@
-- Move backward while pressing Z and S / move rightward while pressing Q and D
-- Dash cooldown works with pause??
-- Projectile not centered
-- Add Run animation
-- Rework Enemy shoot timer and conditions
-- Add milliseconds to game timer

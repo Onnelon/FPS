@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeBlockoutToolsPlugin_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xCA255C11,
+				0x8AAA1A08,
 				0xBE682B16,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeBlockoutToolsPlugin_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_BlockoutToolsPlugin.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BlockoutToolsPlugin(Z_Construct_UPackage__Script_BlockoutToolsPlugin, TEXT("/Script/BlockoutToolsPlugin"), Z_Registration_Info_UPackage__Script_BlockoutToolsPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCA255C11, 0xBE682B16));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BlockoutToolsPlugin(Z_Construct_UPackage__Script_BlockoutToolsPlugin, TEXT("/Script/BlockoutToolsPlugin"), Z_Registration_Info_UPackage__Script_BlockoutToolsPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8AAA1A08, 0xBE682B16));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
